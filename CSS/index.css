@@ -1,4 +1,5 @@
 				*{padding:0;margin:0;}
+				a{text-decoration:none;}
 				body{display:flex;}
 				.flexbox{display:flex;background-color:white;width:1300px;height:3589px;margin:0 auto;flex-direction:column;}
 				.head{height:85px;width:1300px;}
